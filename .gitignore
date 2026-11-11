@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+output/
+
+# Created by renv::activate() when the lockfile is used
+.Rprofile
+renv/

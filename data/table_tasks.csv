@@ -1,0 +1,46 @@
+table,title,task_ids,source
+1,Recruitment and information under fixed allocation ratios at sites limited to 10 intervention patients.,,Planning formulas
+2,Consequences for sample size and number of sites when 50% of sites are asymmetrically constrained.,,Planning formulas
+3,Mean estimates and confidence interval coverage in 30 sites of variable size: null treatment effect.,"82,88,94",Simulation
+4,Mean estimates and confidence interval coverage in 30 sites of variable size: moderate treatment effect.,"83,89,95",Simulation
+S1,Site-variable allocation relative to a uniform compromise ratio.,,Planning formulas
+S2,"120 sites of equal size; 50% of sites use 1:3; prognosis independent of allocation ratio, null effect.","1,4,7",Simulation
+S3,"120 sites of equal size; 50% of sites use 1:3; prognosis independent of allocation ratio, moderate treatment effect.","2,5,8",Simulation
+S4,"120 sites of equal size; 50% of sites use 1:3; prognosis independent of allocation ratio, large treatment effect.","3,6,9",Simulation
+S5,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, null effect.","10,16,22",Simulation
+S6,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, null effect.","13,19,25",Simulation
+S7,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, moderate treatment effect.","11,17,23",Simulation
+S8,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, moderate treatment effect.","14,20,26",Simulation
+S9,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, large treatment effect.","12,18,24",Simulation
+S10,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, large treatment effect.","15,21,27",Simulation
+S11,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, null effect.","28,34,40",Simulation
+S12,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, null effect.","31,37,43",Simulation
+S13,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, moderate treatment effect.","29,35,41",Simulation
+S14,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, moderate treatment effect.","32,38,44",Simulation
+S15,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, large treatment effect.","30,36,42",Simulation
+S16,"120 sites of variable size; 25% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, large treatment effect.","33,39,45",Simulation
+S17,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, null effect.","46,52,58",Simulation
+S18,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, null effect.","49,55,61",Simulation
+S19,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, moderate treatment effect.","47,53,59",Simulation
+S20,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, moderate treatment effect.","50,56,62",Simulation
+S21,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites, large treatment effect.","48,54,60",Simulation
+S22,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites, large treatment effect.","51,57,63",Simulation
+S23,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, null effect.","64,70",Simulation
+S24,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, null effect.","67,73",Simulation
+S25,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, moderate treatment effect.","65,71",Simulation
+S26,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, moderate treatment effect.","68,74",Simulation
+S27,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, large treatment effect.","66,72",Simulation
+S28,"60 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes, large treatment effect.","69,75",Simulation
+S29,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, null effect.",76,Simulation
+S30,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, null effect.",79,Simulation
+S31,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, moderate treatment effect.",77,Simulation
+S32,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, moderate treatment effect.",80,Simulation
+S33,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, large treatment effect.",78,Simulation
+S34,"120 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; higher continuous variance in 1:3 sites, large treatment effect.",81,Simulation
+S35,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes and higher continuous variance in 1:3 sites, null effect.","85,91,97",Simulation
+S36,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes and higher continuous variance in 1:3 sites, moderate treatment effect.","86,92,98",Simulation
+S37,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites larger; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes and higher continuous variance in 1:3 sites, large treatment effect.","84,90,96",Simulation
+S38,"30 sites of variable size; 50% of sites use 1:3; 1:3 sites smaller; strong worse prognosis in 1:3 sites; sparse time-to-event/binary outcomes and higher continuous variance in 1:3 sites, large treatment effect.","87,93,99",Simulation
+S39,Interpretation of the analysis methods.,,Text
+S40,"Empirical standard deviation and mean estimated standard error of each analysis method in Tables 3, 4, S5, S9, and S17.","82,88,94,83,89,95,10,16,22,12,18,24,46,52,58",Simulation (SDs and SEs)
+S41,"Coverage of IPTW confidence intervals with cluster-robust SEs in the scenarios of Tables 3 and 4, with and without corrections for the small number of sites.","82,83,88,89,94,95",Interval checks
